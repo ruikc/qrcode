@@ -1,0 +1,20 @@
+{
+	"name": "y284663247/qrcode",
+	"description": "qrcode create base phpqrcode",
+	"keywords": ["yii2", "y284663247", "qrcode", "php", "phpqrcode"],
+	"type": "yii2-extension",
+	"license": "MIT",
+	"authors": [
+		{
+			"name": "y284663247",
+			"email": "lhyfe1987@163.com"
+		}
+    ],
+    "require": {
+        "yiisoft/yii2": "*",
+        "aferrandini/phpqrcode": "*"
+    },
+	"autoload": {
+		"psr-4": {"y284663247\\qrcode\\": ""}
+	}
+}
