@@ -9,7 +9,7 @@
  * version: 0.0.1
  */
 
-namespace yii\qrcode;
+namespace y284663247\qrcode;
 
 use Yii;
 use PHPQRCode\QRcode;
