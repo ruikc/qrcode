@@ -1,11 +1,10 @@
 <?php
 /*!
  * yii2 extension - qrcode
- * xiewulong <xiewulong@vip.qq.com>
- * https://github.com/xiewulong/yii2-qrcode
- * https://raw.githubusercontent.com/xiewulong/yii2-qrcode/master/LICENSE
- * create: 2015/1/8
- * update: 2015/1/8
+ * rickeryu <lhyfe1987@163.com>
+ * https://github.com/y284663247/qrcode
+ * create: 16/7/22 下午9:43
+ * update: 16/7/22 下午9:43
  * version: 0.0.1
  */
 
