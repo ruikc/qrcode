@@ -9,8 +9,6 @@
  */
 
 namespace y284663247\qrcode;
-
-use Yii;
 use PHPQRCode\QRcode;
 
 class PHPQrcode {
