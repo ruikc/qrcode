@@ -1,5 +1,5 @@
 <?php
-/*!
+/*
  * yii2 extension - qrcode
  * rickeryu <lhyfe1987@163.com>
  * https://github.com/y284663247/qrcode
